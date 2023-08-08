@@ -1,5 +1,8 @@
 # Auth0_implementation
-
+Run the following command in the same folder as the index.html file you created earlier:
+```
+npm init -y
+```
 ```
 npm init -y
 npm install express
