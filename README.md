@@ -4,7 +4,6 @@ Run the following command in the same folder as the index.html file you created 
 npm init -y
 ```
 ```
-npm init -y
 npm install express
 npm install -D nodemon
 ```
